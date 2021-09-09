@@ -1,4 +1,4 @@
-# xcrun error 해결 방법
+# xcrun error 해결법
 
 ### Error
 ```
@@ -8,7 +8,7 @@ xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools
 vscode에서 컴파일을 하는데 `xcrun error`가 떴다.
 읽어보니 Xcode Command Line Tools에 이슈가 발생해서 되지 않았던 것이다.
 
-### 해결 방법
+### 해결법
 ```
 xcode-select --install
 ```
