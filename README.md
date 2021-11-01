@@ -10,6 +10,7 @@
 
 ### Mac
 - [xcrun error 해결법](https://github.com/favorcat/TIL/blob/main/Mac/xcrun%20error.md)
+- [맥북 메뉴바 색상 변경하는 방법](https://github.com/favorcat/TIL/blob/main/Mac/ChangeMenuBar.md)
 
 ### Twitter API
 - [Welcome message 설정](https://github.com/favorcat/TIL/tree/main/Twitter%20API/create-welcome-message.md)
