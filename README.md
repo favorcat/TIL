@@ -14,3 +14,6 @@
 
 ### Twitter API
 - [Welcome message 설정](https://github.com/favorcat/TIL/tree/main/Twitter%20API/create-welcome-message.md)
+
+### Ubuntu
+- [ubuntu 20.04 기본 설정](https://github.com/favorcat/TIL/blob/main/ubuntu/setting.md)
